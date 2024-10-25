@@ -19,6 +19,8 @@
 
 <h3 align="left">A passionate developer in Japan</h3>
 
+<h3 align="left">Resume: [https://yuu-senoo.github.io/resume/](https://yuu-senoo.github.io/resume/)</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/yuu_tcas" target="blank">
